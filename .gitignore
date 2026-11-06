@@ -1,0 +1,37 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor / operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary backups
+*.log
+*.bak
+*~
+
+# Local data: keep private or large data out of public repositories by default.
+# Remove the next line only if you have permission to publish this exact dataset.
+diabetes_clean.csv
+
+# Common local data folders (uncomment if your project uses these)
+# data/raw/
+# data/interim/
