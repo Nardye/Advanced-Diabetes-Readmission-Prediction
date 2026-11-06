@@ -1,0 +1,14 @@
+﻿# Core data analysis and visualization
+numpy
+pandas
+matplotlib
+
+# Machine learning and model evaluation
+scikit-learn
+xgboost
+
+# Neural network implementation
+tensorflow
+
+# Rich display support used by the converted notebook script
+ipython
